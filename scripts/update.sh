@@ -32,3 +32,5 @@ curl -SsL "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/release
   -o "$HEADLESS_DIR/rml_libs/Discord.Net.Webhook.dll"
 curl -SsL "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/latest/StresslessHeadless.dll" \
   -o "$HEADLESS_DIR/rml_mods/StresslessHeadless.dll"
+curl -SsL "https://g.j4.lc/api/v4/projects/95/releases/permalink/latest/downloads/HeadlessPrometheusExporter.dll" \
+  -o "$HEADLESS_DIR/rml_mods/HeadlessPrometheusExporter.dll"
